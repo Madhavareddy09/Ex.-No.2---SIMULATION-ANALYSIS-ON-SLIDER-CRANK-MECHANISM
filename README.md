@@ -8,13 +8,13 @@
 
 
 ## REQUIREMENTS:
-###   ●	Mech Analyzer software.
-###   ●	Processor: Minimum 1.5 GHz
-###   ●	RAM: Minimum 512 MB
-###   ●	Operating System: Windows XP, Windows Vista, Windows 7, Windows 8 or higher.
-###   ●	Dependencies: Microsoft .Net 2.0 framework
-###   ●	Mini Drafter.
-###   ●	Geometry instruments.
+###   ●        Mech Analyzer software.
+###   ●        Processor: Minimum 1.5 GHz
+###   ●        RAM: Minimum 512 MB
+###   ●        Operating System: Windows XP, Windows Vista, Windows 7, Windows 8 or higher.
+###   ●        Dependencies: Microsoft .Net 2.0 framework
+###   ●        Mini Drafter.
+###   ●        Geometry instruments.
 
 ## PROCEDURE:
 ###  Configuration diagram
@@ -46,8 +46,15 @@
 ## Output
 
 
-### Name:
-### Register Number: 
+
+
+![image](https://github.com/ssnithyaasri/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/119122478/252caae8-5a84-445b-8cba-f534414aeaf9)
+
+
+
+
+### Name: K Madhava Reddy
+### Register Number: 212223240064
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
